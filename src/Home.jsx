@@ -20,7 +20,7 @@ const Home = () => {
                      <div className="bnner_inline_images">
                         <ul>
                            <li>
-                              <lottie-player src="https://assets1.lottiefiles.com/private_files/lf30_nxupqbkn.json" background="transparent" speed="1" loop  autoplay></lottie-player>
+                              <lottie-player src="react-ds-uk/https://assets1.lottiefiles.com/private_files/lf30_nxupqbkn.json" background="transparent" speed="1" loop  autoplay></lottie-player>
                            </li>
                        
                         </ul>
@@ -31,48 +31,48 @@ const Home = () => {
                   <div className="banner-service-wraper">
                      <ul className="list-n fist-m">
                         <li>
-                           <div className="list-n-wrp"><a href="#"><img src="assets/img/business-center-logo.svg" alt="business-center-logo" /><span>Business <br />Center</span></a></div>
+                           <div className="list-n-wrp"><a href="#"><img src="react-ds-uk/assets/img/business-center-logo.svg" alt="business-center-logo" /><span>Business <br />Center</span></a></div>
                         </li>
                         <li>
-                           <div className="list-n-wrp"><a href="#"><img src="assets/img/azur-icons.svg" alt="azur-icons" /><span>Azure</span></a></div>
+                           <div className="list-n-wrp"><a href="#"><img src="react-ds-uk/assets/img/azur-icons.svg" alt="azur-icons" /><span>Azure</span></a></div>
                         </li>
                      </ul>
                      <ul className="list-n fist-m-2">
                         <li>
-                           <div className="list-n-wrp"><a href="#"><img src="assets/img/Powerapps_power-apps.svg" alt="Powerapps_power-apps" /><span>Power <br />Apps</span></a></div>
+                           <div className="list-n-wrp"><a href="#"><img src="react-ds-uk/assets/img/Powerapps_power-apps.svg" alt="Powerapps_power-apps" /><span>Power <br />Apps</span></a></div>
                         </li>
                         <li>
-                           <div className="list-n-wrp"><a href="#"><img src="assets/img/finace-icons.svg" alt="finace-icons" /><span>Finance</span></a></div>
+                           <div className="list-n-wrp"><a href="#"><img src="react-ds-uk/assets/img/finace-icons.svg" alt="finace-icons" /><span>Finance</span></a></div>
                         </li>
                         <li>
-                           <div className="list-n-wrp"><a href="#"><img src="assets/img/customer-service-icons.svg" alt="customer-service-icons" /><span>Customer<br /> Service</span></a></div>
+                           <div className="list-n-wrp"><a href="#"><img src="react-ds-uk/assets/img/customer-service-icons.svg" alt="customer-service-icons" /><span>Customer<br /> Service</span></a></div>
                         </li>
                      </ul>
                      <ul className="list-n  fist-m-3">
                         <li>
-                           <div className="list-n-wrp"><a href="#"><img src="assets/img/supplychain-logo.svg" alt="supplychain-logo" /><span>Supply Chain</span></a></div>
+                           <div className="list-n-wrp"><a href="#"><img src="react-ds-uk/assets/img/supplychain-logo.svg" alt="supplychain-logo" /><span>Supply Chain</span></a></div>
                         </li>
                         <li className="list-n-wrp-size">
-                           <div className="list-n-wrp"><a href="#"><img src="assets/img/ds-365.png" alt="ds-365" /></a></div>
+                           <div className="list-n-wrp"><a href="#"><img src="react-ds-uk/assets/img/ds-365.png" alt="ds-365" /></a></div>
                         </li>
                         <li>
-                           <div className="list-n-wrp"><a href="#"><img src="assets/img/feald-service-logo.svg" alt="feald-service-logo" /><span>Field <br />Service</span></a></div>
+                           <div className="list-n-wrp"><a href="#"><img src="react-ds-uk/assets/img/feald-service-logo.svg" alt="feald-service-logo" /><span>Field <br />Service</span></a></div>
                         </li>
                      </ul>
                      <ul className="list-n  fist-m-2">
                         <li>
-                           <div className="list-n-wrp"><a href="#"><img src="assets/img/powerbilogo.png" alt="powerbilogo" /><span>Power BI</span></a></div>
+                           <div className="list-n-wrp"><a href="#"><img src="react-ds-uk/assets/img/powerbilogo.png" alt="powerbilogo" /><span>Power BI</span></a></div>
                         </li>
                         <li>
-                           <div className="list-n-wrp"><a href="#"><img src="assets/img/marketing.svg" alt="marketing" /><span>Marketing</span></a></div>
+                           <div className="list-n-wrp"><a href="#"><img src="react-ds-uk/assets/img/marketing.svg" alt="marketing" /><span>Marketing</span></a></div>
                         </li>
                         <li>
-                           <div className="list-n-wrp"><a href="#"><img src="assets/img/Sales_scalable.svg" alt="Sales_scalable" /><span>Sales</span></a></div>
+                           <div className="list-n-wrp"><a href="#"><img src="react-ds-uk/assets/img/Sales_scalable.svg" alt="Sales_scalable" /><span>Sales</span></a></div>
                         </li>
                      </ul>
                      <ul className="list-n fist-m">
                         <li>
-                           <div className="list-n-wrp"><a href="#"><img src="assets/img/human-resource.svg" alt="human-resource" /><span>Human <br />Resources</span></a></div>
+                           <div className="list-n-wrp"><a href="#"><img src="react-ds-uk/assets/img/human-resource.svg" alt="human-resource" /><span>Human <br />Resources</span></a></div>
                         </li>
                      </ul>
                   </div>
@@ -92,7 +92,7 @@ const Home = () => {
             <div className="row gy-2">
                <div className="col-lg-4 col-md-6" >
                   <div className="service-box blue">
-                     <img src="assets/img/business-center-logo.svg" alt="business-center-logo" className="icon" />
+                     <img src="react-ds-uk/assets/img/business-center-logo.svg" alt="business-center-logo" className="icon" />
                      <h3>Dynamics 365 Business Central</h3>
                      <p>Drive an efficient business model on the cloud while keeping real-time eyes on your sales insights, effectively manage your finance, and ensure a sound customer experience with Microsoft Dynamics 365 Business Central.</p>
                      <a href="#" className="read-more"><span>Learn More...</span></a>
@@ -100,7 +100,7 @@ const Home = () => {
                </div>
                <div className="col-lg-4 col-md-6" >
                   <div className="service-box orange">
-                    <img src="assets/img/finace-icons.svg" alt="finace-icons" className="icon" />
+                    <img src="react-ds-uk/assets/img/finace-icons.svg" alt="finace-icons" className="icon" />
                      <h3>Dynamics 365 Finance</h3>
                      <p>Simplify your finance hierarchy and boost your organization's ability to develop, modify and control budgets, make faster and more informed financial decision making with Microsoft Dynamics 365 Finance.</p>
                      <a href="#" className="read-more"><span>Learn More...</span></a>
@@ -108,7 +108,7 @@ const Home = () => {
                </div>
                <div className="col-lg-4 col-md-6" >
                   <div className="service-box green">
-                    <img src="assets/img/supplychain-logo.svg" alt="supplychain-logo" className="icon" />
+                    <img src="react-ds-uk/assets/img/supplychain-logo.svg" alt="supplychain-logo" className="icon" />
                      <h3>Dynamics 365 Supply Chain</h3>
                      <p>Explore new Supply Chain capabilities, optimize resources, maximize operational efficiency, and accelerate time to market while keeping real-time eyes in your end-to-end supply chain operations.</p>
                      <a href="#" className="read-more"><span>Learn More...</span></a>
@@ -116,7 +116,7 @@ const Home = () => {
                </div>
                <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
                   <div className="service-box red">
-                    <img src="assets/img/Sales_scalable.svg" alt="Sales_scalable" className="icon" />
+                    <img src="react-ds-uk/assets/img/Sales_scalable.svg" alt="Sales_scalable" className="icon" />
                      <h3>Dynamics 365 Sales</h3>
                      <p>Upgrade your system with Microsoft Dynamics 365 Sales to impact your sales drive and improve sound customer relationships to elevate your business values while maximizing your revenue outcomes.</p>
                      <a href="#" className="read-more"><span>Learn More...</span></a>
@@ -124,7 +124,7 @@ const Home = () => {
                </div>
                <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
                   <div className="service-box purple">
-                    <img src="assets/img/Powerapps_power-apps.svg" alt="Powerapps_power-apps" className="icon" />
+                    <img src="react-ds-uk/assets/img/Powerapps_power-apps.svg" alt="Powerapps_power-apps" className="icon" />
                      <h3>Microsoft Power BI</h3>
                      <p>Steadily monitor your business activities with power-packed data visualization and real-time reporting insights to make informed decisions for better productivity ahead.</p>
                      <a href="#" className="read-more"><span>Learn More...</span></a>
@@ -132,7 +132,7 @@ const Home = () => {
                </div>
                <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="700">
                   <div className="service-box pink">
-                    <img src="assets/img/Azure-IoT.svg" alt="Azure-IoT" className="icon" />
+                    <img src="react-ds-uk/assets/img/Azure-IoT.svg" alt="Azure-IoT" className="icon" />
                      <h3>Internet Of Things</h3>
                      <p>Outreach more efficient, scalable, and secure data distribution practices by simply integrating cloud-equipped, modernized, and seamless data-driven solutions with Microsoft Azure.</p>
                      <a href="#" className="read-more"><span>Learn More...</span></a>
@@ -153,7 +153,7 @@ const Home = () => {
                      <div className="square-flip">
                         <div className='square'>
                            <div className="square-container">
-                              <div className="align-center"><img src="assets/img/StartUp-icons.png" width="50" height="50" className="boxshadow" alt="StartUp-icons" /></div>
+                              <div className="align-center"><img src="react-ds-uk/assets/img/StartUp-icons.png" width="50" height="50" className="boxshadow" alt="StartUp-icons" /></div>
                               <h3 className="textshadow">Startup</h3>
                            </div>
                            <div className="flip-overlay"></div>
@@ -176,7 +176,7 @@ const Home = () => {
                      <div className="square-flip">
                         <div className='square'>
                            <div className="square-container">
-                              <div className="align-center"><img src="assets/img/Not for Profit--icons.png" width="50" height="50" className="boxshadow" alt="Not for Profit--icons" /></div>
+                              <div className="align-center"><img src="react-ds-uk/assets/img/Not for Profit--icons.png" width="50" height="50" className="boxshadow" alt="Not for Profit--icons" /></div>
                               <h3 className="textshadow">Not for Profit</h3>
                            </div>
                            <div className="flip-overlay"></div>
@@ -199,7 +199,7 @@ const Home = () => {
                      <div className="square-flip">
                         <div className='square'>
                            <div className="square-container">
-                              <div className="align-center"><img src="assets/img/E-Commerce-icons.png" width="50" height="50" className="boxshadow" alt="E-Commerce-icons" /></div>
+                              <div className="align-center"><img src="react-ds-uk/assets/img/E-Commerce-icons.png" width="50" height="50" className="boxshadow" alt="E-Commerce-icons" /></div>
                               <h3 className="textshadow">E-Commerce</h3>
                            </div>
                            <div className="flip-overlay"></div>
@@ -222,7 +222,7 @@ const Home = () => {
                      <div className="square-flip">
                         <div className='square'>
                            <div className="square-container">
-                              <div className="align-center"><img src="assets/img/Manufacturing & Distribution-icons.png" width="50" height="50" className="boxshadow" alt="Manufacturing & Distribution-icons" /></div>
+                              <div className="align-center"><img src="react-ds-uk/assets/img/Manufacturing & Distribution-icons.png" width="50" height="50" className="boxshadow" alt="Manufacturing & Distribution-icons" /></div>
                               <h3 className="textshadow">Manufacturing & Distribution</h3>
                            </div>
                            <div className="flip-overlay"></div>
@@ -245,7 +245,7 @@ const Home = () => {
                      <div className="square-flip">
                         <div className='square'>
                            <div className="square-container">
-                              <div className="align-center"><img src="assets/img/Professional Services-icons.png" width="50" height="50" className="boxshadow" alt="Professional Services-icons" /></div>
+                              <div className="align-center"><img src="react-ds-uk/assets/img/Professional Services-icons.png" width="50" height="50" className="boxshadow" alt="Professional Services-icons" /></div>
                               <h3 className="textshadow">Professional Services</h3>
                            </div>
                            <div className="flip-overlay"></div>
@@ -268,7 +268,7 @@ const Home = () => {
                      <div className="square-flip">
                         <div className='square'>
                            <div className="square-container">
-                              <div className="align-center"><img src="assets/img/Food & Beverages-icons.png" width="50" height="50" className="boxshadow" alt="Food & Beverages-icons" /></div>
+                              <div className="align-center"><img src="react-ds-uk/assets/img/Food & Beverages-icons.png" width="50" height="50" className="boxshadow" alt="Food & Beverages-icons" /></div>
                               <h3 className="textshadow">Food & Beverages</h3>
                            </div>
                            <div className="flip-overlay"></div>
@@ -300,7 +300,7 @@ const Home = () => {
             </header>
             <div className="row">
                <div className="col-lg-6 aos-init" >
-                  <img src="assets/img/hero-img.png" className="img-fluid" alt="" />
+                  <img src="react-ds-uk/assets/img/hero-img.png" className="img-fluid" alt="" />
                </div>
                <div className="col-lg-6 pt-4 pt-lg-0 content"  >
 
@@ -320,7 +320,7 @@ const Home = () => {
                <div className="col-lg-3 col-md-6">
                   <div className="count-box">
                      <div className="count-box-image">
-                        <img src="assets/img/Icon awesome-user-check.png" alt="awesome-user-check" width="48" height="48" />
+                        <img src="react-ds-uk/assets/img/Icon awesome-user-check.png" alt="awesome-user-check" width="48" height="48" />
                      </div>
                      <div className="count-box-info">
                         <span data-purecounter-start="0" data-purecounter-end="135" data-purecounter-duration="1" className="purecounter"></span><span className="inner">+</span>
@@ -331,7 +331,7 @@ const Home = () => {
                <div className="col-lg-3 col-md-6">
                   <div className="count-box">
                      <div className="count-box-image">
-                        <img src="assets/img/Icon awesome-award.png" alt="Icon awesome-award" width="48" height="48" />
+                        <img src="react-ds-uk/assets/img/Icon awesome-award.png" alt="Icon awesome-award" width="48" height="48" />
                      </div>
                      <div className="count-box-info">
                         <span data-purecounter-start="0" data-purecounter-end="11" data-purecounter-duration="1" className="purecounter"></span><span className="inner">+</span>
@@ -342,7 +342,7 @@ const Home = () => {
                <div className="col-lg-3 col-md-6">
                   <div className="count-box">
                      <div className="count-box-image">
-                        <img src="assets/img/Icon awesome-globe-asia.png" alt="Icon awesome-globe-asia" width="48" height="48" />
+                        <img src="react-ds-uk/assets/img/Icon awesome-globe-asia.png" alt="Icon awesome-globe-asia" width="48" height="48" />
                      </div>
                      <div className="count-box-info">
                         <span data-purecounter-start="0" data-purecounter-end="6" data-purecounter-duration="1" className="purecounter"></span><span className="inner">+</span>
@@ -353,7 +353,7 @@ const Home = () => {
                <div className="col-lg-3 col-md-6">
                   <div className="count-box">
                      <div className="count-box-image">
-                        <img src="assets/img/Icon ionic-md-thumbs-up.png" alt="awesome-user-check" width="48" height="48" />
+                        <img src="react-ds-uk/assets/img/Icon ionic-md-thumbs-up.png" alt="awesome-user-check" width="48" height="48" />
                      </div>
                      <div className="count-box-info">
                         <span data-purecounter-start="0" data-purecounter-end="99" data-purecounter-duration="1" className="purecounter"></span><span className="inner">%</span>
@@ -380,8 +380,8 @@ const Home = () => {
                            <div className="testimonial-item">
                              
                               <div className="profile mt-auto">
-                                 <img src="assets/img/testimonials/mary-nguyen.png" className="testimonial-img" alt="" />
-                                 <div className="imginner"><img src="assets/img/Icon metro-quote.png" alt="" /></div>
+                                 <img src="react-ds-uk/assets/img/testimonials/mary-nguyen.png" className="testimonial-img" alt="" />
+                                 <div className="imginner"><img src="react-ds-uk/assets/img/Icon metro-quote.png" alt="" /></div>
                                  <p>
                                     Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
                                  </p>
@@ -395,8 +395,8 @@ const Home = () => {
                            <div className="testimonial-item">
                              
                               <div className="profile mt-auto">
-                                 <img src="assets/img/testimonials/mary-nguyen.png" className="testimonial-img" alt="" />
-                                 <div className="imginner"><img src="assets/img/Icon metro-quote.png" alt="" /></div>
+                                 <img src="react-ds-uk/assets/img/testimonials/mary-nguyen.png" className="testimonial-img" alt="" />
+                                 <div className="imginner"><img src="react-ds-uk/assets/img/Icon metro-quote.png" alt="" /></div>
                                  <p>
                                     The team at Dynamics Square are very dedicated, flexible, and attentive and will take care of all your IT needs in a very efficient and timely manner. Highly recommended!
                                  </p>
@@ -410,8 +410,8 @@ const Home = () => {
                            <div className="testimonial-item">
                              
                               <div className="profile mt-auto">
-                                 <img src="assets/img/testimonials/Eliaz-picaso.png" className="testimonial-img" alt="" />
-                                 <div className="imginner"><img src="assets/img/Icon metro-quote.png" alt="" /></div>
+                                 <img src="react-ds-uk/assets/img/testimonials/Eliaz-picaso.png" className="testimonial-img" alt="" />
+                                 <div className="imginner"><img src="react-ds-uk/assets/img/Icon metro-quote.png" alt="" /></div>
                                  <p>
                                     We probed three MS Dynamic Partners, and one of the key factors in making our decision to go ahead with Dynamics Square was the outstanding customer service experience.
                                  </p>
@@ -428,9 +428,9 @@ const Home = () => {
                <div className="col-lg-6" >
                   <div className="testimonials-bg">
                      <div className="testimonials-rigt-iner">
-                        <img src="assets/img/Worldmap-shape.png" className="testimonial-img" alt="" />
+                        <img src="react-ds-uk/assets/img/Worldmap-shape.png" className="testimonial-img" alt="" />
                         <div className="testimonials-rigt-iner-1">
-                           <img src="assets/img/test-side-1.jpg" alt="" />
+                           <img src="react-ds-uk/assets/img/test-side-1.jpg" alt="" />
                         </div>
                         <div className="testimonials-rigt-iner-2">
                            <h4>250+</h4>
@@ -438,10 +438,10 @@ const Home = () => {
                            Worldwide</span>
                         </div>
                         <div className="testimonials-rigt-iner-3">
-                           <img src="assets/img/test-side-3.jpg" alt="" />
+                           <img src="react-ds-uk/assets/img/test-side-3.jpg" alt="" />
                         </div>
                         <div className="testimonials-rigt-iner-4">
-                           <img src="assets/img/test-side-2.jpg" alt="" />
+                           <img src="react-ds-uk/assets/img/test-side-2.jpg" alt="" />
                         </div>
                      </div>
                   </div>
@@ -454,12 +454,12 @@ const Home = () => {
          <div className="container" data-aos="fade-up">
             <div className="clients-slider swiper">
                <div className="swiper-wrapper align-items-center">
-                  <div className="swiper-slide"><img src="assets/img/clients/client-1.png" className="img-fluid" alt="" /></div>
-                  <div className="swiper-slide"><img src="assets/img/clients/client-2.png" className="img-fluid" alt="" /></div>
-                  <div className="swiper-slide"><img src="assets/img/clients/client-3.png" className="img-fluid" alt="" /></div>
-                  <div className="swiper-slide"><img src="assets/img/clients/client-4.png" className="img-fluid" alt="" /></div>
-                  <div className="swiper-slide"><img src="assets/img/clients/client-5.png" className="img-fluid" alt="" /></div>
-                  <div className="swiper-slide"><img src="assets/img/clients/client-4.png" className="img-fluid" alt="" /></div>
+                  <div className="swiper-slide"><img src="react-ds-uk/assets/img/clients/client-1.png" className="img-fluid" alt="" /></div>
+                  <div className="swiper-slide"><img src="react-ds-uk/assets/img/clients/client-2.png" className="img-fluid" alt="" /></div>
+                  <div className="swiper-slide"><img src="react-ds-uk/assets/img/clients/client-3.png" className="img-fluid" alt="" /></div>
+                  <div className="swiper-slide"><img src="react-ds-uk/assets/img/clients/client-4.png" className="img-fluid" alt="" /></div>
+                  <div className="swiper-slide"><img src="react-ds-uk/assets/img/clients/client-5.png" className="img-fluid" alt="" /></div>
+                  <div className="swiper-slide"><img src="react-ds-uk/assets/img/clients/client-4.png" className="img-fluid" alt="" /></div>
                </div>
               
             </div>
@@ -470,7 +470,7 @@ const Home = () => {
          <div className="container" data-aos="fade-up">
             <div className="row  gy-4">
                <div className="col-lg-6" >
-                  <img src="assets/img/casestudy-left.svg" alt="casestudy-left" />
+                  <img src="react-ds-uk/assets/img/casestudy-left.svg" alt="casestudy-left" />
                </div>
                <div className="col-lg-6" >
                   <div className="sec-title">
@@ -484,7 +484,7 @@ const Home = () => {
                         <div className="swiper-slide">
                            <div className="casestudys-slider-item">
                               <div className="profile mt-auto">
-                                 <img src="assets/img/case-1.png" className="casestudys-slider-item-img" alt="" />
+                                 <img src="react-ds-uk/assets/img/case-1.png" className="casestudys-slider-item-img" alt="" />
                                  <p>
                                     A leading British based manufacturer of Military Equipment implemented Microsoft Dynamics 365 Business Central to streamline their finance and inventory management process.
                                  </p>
@@ -532,7 +532,7 @@ const Home = () => {
                     <div className="col-md-6 col-lg-6">
                      
                     </div>
-                    <div className="col-md-6 col-lg-6"><img src="assets/img/contactfor-sede-img.jpg" alt="contactfor-sede-img" className="image-cover" /></div>
+                    <div className="col-md-6 col-lg-6"><img src="react-ds-uk/assets/img/contactfor-sede-img.jpg" alt="contactfor-sede-img" className="image-cover" /></div>
                   </div>
               </div>
              

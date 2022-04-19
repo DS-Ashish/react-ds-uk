@@ -11,7 +11,7 @@ const Footer = () => {
       <div className="row gy-4">
          <div className="col-lg-5 col-md-12 footer-info">
            <NavLink to="/" className="logo d-flex align-items-center">
-            <img src="assets/img/dsuk-footer-logo.svg" alt="dsuk-footer-logo" />
+            <img src="react-ds-uk/assets/img/dsuk-footer-logo.svg" alt="dsuk-footer-logo" />
             </NavLink>
             <p>Dynamics Square is UK's leading Microsoft Gold Certified Partner that caters to the needs of orgnizations who can source next-gen Microsoft Business<br /> Apps from our highly skilled Microsoft consultants.</p>
          </div>
@@ -43,7 +43,7 @@ const Footer = () => {
             </ul>
          </div>
          <div className="col-lg-3 col-md-12 footer-contact text-center text-md-start">
-            <img src="assets/img/microsoft-partner.svg" alt="microsoft-partner" />
+            <img src="react-ds-uk/assets/img/microsoft-partner.svg" alt="microsoft-partner" />
             <div className="social-links mt-3">
               <NavLink to="#" className="twitter"><i className="bi bi-twitter"></i></NavLink>
               <NavLink to="#" className="facebook"><i className="bi bi-facebook"></i></NavLink>

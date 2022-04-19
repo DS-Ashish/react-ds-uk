@@ -7,7 +7,7 @@ const Header = () => {
       <header id="header" className="header fixed-top">
          <div className="container-fluid  d-flex align-items-center justify-content-between">
            <NavLink to="/" className="logo d-flex align-items-center">
-            <img src="assets/img/dynamicssqure-logo.webp" alt="logo" />
+            <img src="react-ds-uk/assets/img/dynamicssqure-logo.webp" alt="logo" />
             </NavLink>
             <nav id="navbar" className="navbar">
                <ul>
